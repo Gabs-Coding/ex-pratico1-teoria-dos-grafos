@@ -5,7 +5,6 @@ Este é um exercício avaliativo da disciplina de Teoria dos Grafos, cursada pel
 # Enunciado
 
 Desenvolva um programa em linguagem C que leia o conjunto de vértices e arestas de um grafo não direcionado G(V,E):
- 
 • Construa e escreva a matriz de adjacências do grafo.
 • Apresentar uma lista com o grau de cada vértice;
 • Classificar o grafo em: bipartipe ou não bipartite; caso bipartite, apresentar os 2 subconjuntos de vértices.
